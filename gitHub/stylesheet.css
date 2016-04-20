@@ -1,0 +1,24 @@
+
+body { margin: 0; padding: 0; background: #CCC;}
+canvas { 
+	width: 550px;
+	height: 400px;
+	background: #ccc; 
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+@font-face {
+  font-family: comic1;
+  src: url(assets/fonts/SFComicScript.ttf);
+}
+@font-face {
+  font-family: comic2;
+  src: url(assets/fonts/SFComicScript-Bold.ttf);
+}
+@font-face {
+  font-family: comic3;
+  src: url(assets/fonts/SFComicScriptOutline.ttf);
+}
